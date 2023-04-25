@@ -1,0 +1,7 @@
+Negative testing for LogIN Page
+
+1. Enter Valid URL(https://www.facebook.com/)
+2. Enter InValid UserName.
+3. Enter InValid Password.
+4. Click on LogIn button.
+5. Enter a valid username and password message shown. Negative testing done successfully 

@@ -1,0 +1,7 @@
+Positive testing for LogIN Page
+
+1. Enter Valid URL(https://www.facebook.com/)
+2. Enter Valid UserName.
+3. Enter Valid Password.
+4. Click on LogIn button.
+5. If you are redirect to the facebook home page than Positive testing done successfully. 
